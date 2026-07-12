@@ -11,7 +11,23 @@ This project demonstrates the implementation and visualization of classical grap
 - A* Search Algorithm
 - Prim's Minimum Spanning Tree (MST)
 - Performance analysis and comparison
+- Execution time benchmarking
+- Memory usage comparison
 - Automatic graph visualizations
+
+## Performance Evaluation
+
+The project compares the implemented algorithms based on:
+- Execution Time
+- Memory Usage
+- Algorithm Efficiency
+This provides insight into the trade-offs between different graph algorithms for route optimization and helps demonstrate their practical performance on the same graph.
+
+![Comparison of all algorithms used](images/comparison.png)
+
+We also compare Dijkstra and A* algorithm on the same level.
+
+![Dijkstra v/s A*](images/DijkstravsA*.png)
 
 ## Algorithms Implemented
 
