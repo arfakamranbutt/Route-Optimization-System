@@ -18,9 +18,11 @@ This project demonstrates the implementation and visualization of classical grap
 ## Performance Evaluation
 
 The project compares the implemented algorithms based on:
+
 - Execution Time
 - Memory Usage
 - Algorithm Efficiency
+
 This provides insight into the trade-offs between different graph algorithms for route optimization and helps demonstrate their practical performance on the same graph.
 
 ![Comparison of all algorithms used](images/comparison.png)
