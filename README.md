@@ -1,6 +1,6 @@
 # Route Optimization System
 
-A Python-based graph analysis and route optimization system developed for the Design and Analysis of Algorithms (DAA) course.
+A graph-based analysis and route optimization system developed for my Design and Analysis of Algorithms (DAA) course in Python.
 
 This project demonstrates the implementation and visualization of classical graph algorithms used in route planning and network optimization.
 
@@ -46,7 +46,7 @@ images/          # Generated visual outputs
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/route-optimization-system.git
+git clone https://github.com/arfakamranbutt/route-optimization-system.git
 cd route-optimization-system
 ```
 
